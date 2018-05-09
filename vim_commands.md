@@ -1,9 +1,13 @@
 # VIM
 
 ## Basic movement: h, j, k, and l
+
 **h** moves left
+
 **j** moves down
+
 **k** moves up					**9k** is the same as pressing k 9 times
+
 **l** moves right
 
 ## Word movement: w, e, b
