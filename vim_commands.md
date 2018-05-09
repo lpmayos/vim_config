@@ -26,7 +26,7 @@
 **$** end of line
 
 ## Find word occurrences
-**``**``** next occurrence of the word under cursor (shift ``**``)
+**``**``** next occurrence of the word under cursor (shift ``*``)
 **``#``** previous occurrence of the word under cursor (Alt Gr ``#``)
 
 ## Go to beginning of file, line
